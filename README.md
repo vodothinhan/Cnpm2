@@ -11,9 +11,13 @@ Mở MySQL Workbench → Open SQL Script → Execute [librarydb.sql](https://git
 ### 3. Nạp project vào IDEA
 Mở IDEA → File | New | Project from Version Control → Clone project theo URL: https://github.com/pthdang/Software_Engineering_Project.git
 
-### 4. Build Project (Ctrl + F9)
+### 4. Trust project
 
-### 5. Run (Shift + F10)
+### 5. Cấu hình Tomcat
+* [Add configuration...] → [+] Tomcat Server Local
+* [Fix] → LibraryManager:war exploded
+
+### 6. Run (Shift+F10)
 
 ## B. Cấu hình utils.ConstUtils
 * Mặc định, DB_NAME là librarydb, DB_USERNAME là root, DB_PASSWORD là 12345.
@@ -21,7 +25,7 @@ Mở IDEA → File | New | Project from Version Control → Clone project theo U
 
 ## C. Điền nhanh form /addBook
 * F12 (Console) → Chạy nội dung trong file [fill.js](https://github.com/pthdang/Software_Engineering_Project/blob/main/init/fill.js)
-* Có thể lưu thành [bookmarklet](https://chriszarate.github.io/bookmarkleter/)
+* Có thể lưu thành [bookmarklet](https://chriszarate.github.io/bookmarkleter/) cho tiện
 
 # Phần mềm
 * IDEA 2021.1.2
