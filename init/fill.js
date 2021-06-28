@@ -1,0 +1,10 @@
+document.getElementById("add-book-id").value = "00023";
+document.getElementById("add-book-title").value = "123";
+document.getElementById("add-book-author").value = "123";
+document.getElementById("add-book-pages").value = "123";
+document.getElementById("add-book-publisher").value = "123";
+document.getElementById("add-book-category").value = "123";
+document.getElementById("add-book-yearPublishing").value = "2020";
+document.getElementById("add-book-numCopies").value = "123";
+document.getElementById("add-book-status").value = "123";
+document.getElementById("add-book-description").value = "123";

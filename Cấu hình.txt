@@ -1,4 +1,0 @@
-IDEA: IntelliJ Ultimate 2021.1.2
-JDK 10
-Apache tomcat 9.0.46
-Mysql work bench 8.0 CE
