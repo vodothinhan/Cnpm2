@@ -14,7 +14,7 @@ Mở IDEA → File | New | Project from Version Control → Clone project theo U
 ### 4. Trust project
 
 ### 5. Cấu hình Tomcat
-* [Add configuration...] → [+] Tomcat Server Local
+* [Add Configuration...] → [+] Tomcat Server Local
 * [Fix] → LibraryManager:war exploded
 
 ### 6. Run (Shift+F10)
