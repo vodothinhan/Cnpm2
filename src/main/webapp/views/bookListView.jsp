@@ -26,7 +26,7 @@
                                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/200px.png">
                                     </c:when>
                                     <c:otherwise>
-                                        <img class="img-fluid" src="${pageContext.request.contextPath}/image/${book.imageName}">
+                                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/bookImage/${book.imageName}">
                                     </c:otherwise>
                                 </c:choose>
                             </a>
